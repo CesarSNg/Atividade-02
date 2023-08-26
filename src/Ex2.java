@@ -11,9 +11,9 @@ public class Ex2
         
         System.out.println("Entre com o primeiro valor");
         valor1 = input.nextInt();
-        System.out.println("Entre com o segundo valor");
+        System.out.println("%nEntre com o segundo valor");
         valor2 = input.nextInt();
-        System.out.println("Entre com o terceiro valor");
+        System.out.println("%nEntre com o terceiro valor");
         valor3 = input.nextInt();
         if(valor1 > valor2 && valor1 > valor3){
             if(valor2 > valor3){

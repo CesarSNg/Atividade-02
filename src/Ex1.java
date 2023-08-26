@@ -12,7 +12,8 @@ public class Ex1
         System.out.println("Entre com o valor");
         valor = input.nextFloat();
         if(valor % 3 == 0)
-            System.out.println("\nValor multiplo de 3");
+            System.out.println("%nValor multiplo de 3");
         else
-            System.out.printf("\nValor nao multiplo de 3");	}
+            System.out.printf("%nValor nao multiplo de 3");	
+        }
 }
